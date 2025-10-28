@@ -1,12 +1,8 @@
 /* Add CSS Styling */
-.click-me-button {
+.black-button,
+.yellow-button {
     font-family: "Helvetica",'Times New Roman',sans-serif;
     font-size: 28px;
-}
-
-:hover.click-me-button {
-    background-color: white;
-    color: blue;
 }
 
 .yellow-button {
